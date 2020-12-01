@@ -43,7 +43,8 @@
         </plugins>
     </build>
     <scm>
-        <developerConnection>scm:git:git@github.com:Dina-Essam/Pet-Clinic.git</developerConnection>
+        <url>https://github.com/Dina-Essam/Pet-Clinic</url>
+        <developerConnection>scm:git:https://github.com/Dina-Essam/Pet-Clinic.git</developerConnection>
         <tag>pet-clinic-0.0.1</tag>
     </scm>
 
